@@ -13,12 +13,12 @@ To check backend server with postman API/Thunder Client
 //no validation checks as ticket doesnot requires validation checks
 //ticket will be assigned as round robin logic
 body -> json 
-{
+`{
   "topic":"Issue in Ticket 2",
   "description":"Not assigned",
   "severity":"Medium",
   "type":"Ticket"
-}
+}`
 
 
 
