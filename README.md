@@ -41,7 +41,7 @@ body -> json
 
 **FOR GETTING TICKETS**
 
-[Get]  http://localhost:5000/api/support-tickets?type=API Calls
+[Get]  http://localhost:5000/api/support-tickets?type=Payments
 **here we can filter our gettting response by `TYPE` or `SEVERITY` or `ASSIGNEDTO`**
 
 ->response will be filtered data
