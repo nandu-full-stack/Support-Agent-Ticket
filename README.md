@@ -31,12 +31,12 @@ body -> json
 ->email should be unique and should have @
 
 body -> json
-{
+`{
   "name":"Agent2234",
   "email":"Agent21235@email.com",
   "phoneNumber":1234567889,
   "description":"10 Agent "
-}
+}`
 
 
 **FOR GETTING TICKETS**
